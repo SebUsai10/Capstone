@@ -8,7 +8,7 @@ This repo explores the use of a Gradient Boosting Classifier to predict next day
 ---
 You can run the short version to replicate the results or run the entire program if you are changing the study period:
 
-#Short version:
+#Short version
 ---
 Open "Capstone Momentum"
 Ensure all files are saved in correct directory
