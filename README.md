@@ -12,7 +12,7 @@ You can run the short version to replicate the results or run the entire program
 
 #Short version
 ---
-Open "Capstone Momentum"
+Open "Capstone Momentum" IPYNB
 
 Ensure all files are saved in correct directory
 
@@ -21,6 +21,10 @@ Ensure all libraries are installed
 Run from top to bottom
 
 (You will be taking advantage of the pre saved ML file and the presaved and edited MomentumLONG(SHORT)1 files)
+
+Repeat the above steps with "Capstone Mean Reversion" IPYNB
+
+You will not need to use the Capstone Machine Learning IPYNB as the necessary output data files are already provided.
 
 
 
